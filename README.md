@@ -1,2 +1,2 @@
-# docker-alpine-3.17.0-angular
+# docker-alpine-angular
 Alpine linux with nodejs, npm and angular.
